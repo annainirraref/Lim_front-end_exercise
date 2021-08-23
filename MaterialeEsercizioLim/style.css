@@ -1,0 +1,93 @@
+* {
+margin:0;
+padding:0;
+border-box:0;
+font-family: 'Rubik', sans-serif;
+}
+
+body {
+  width:100%;
+  height:auto;
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+ .main {
+  margin: 40px 250px;
+  width:70%;
+  height:700px;
+  border-radius:15px;
+  background: rgba(0,0,0,0.5);
+}
+
+.home-title{
+height: 20%;
+margin-left: 40px;
+padding-top: 60px;
+text-align: center:
+}
+
+img.lim-symbol{
+  height:50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2{
+  color:#00DD00;
+  font-size: 36px;
+  text-align: center;
+
+}
+ div.menu{
+   margin-left: 80px;
+   margin-right: 80px;
+   background-color: #00DD00;
+   height:40px;
+
+ }
+ul{
+  list-style-type: none;
+  overflow: hidden;
+  text-align:center;
+}
+li{
+float:left;
+border: black solid 0.5px;
+border-radius: 2px;
+font-size: 12px;
+font-weight: lighter;
+text-align: center;
+color: black;
+background-color:#ECECED;
+padding: 2.5px 5px;
+margin-left: 20px;
+}
+
+div.mono-1{
+  margin-left: 80px;
+  margin-right: 80px;
+  color:white;
+  padding-top: 20px;
+}
+
+#mono1{
+  font-size: 22px;
+}
+
+p.description-mono{
+  font-size: 16px;
+}
+
+div.battery-charge{
+  height:30px;
+  border-radius:3px;
+}
+
+div.battery-charge-1{
+  background-color:#F5B453;
+  width: 40%;
+
+}
